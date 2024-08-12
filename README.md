@@ -1,4 +1,4 @@
-# GopherSafe
+# gophersafe
 
 <p align="center">
   <img src="./gophersafe.jpg" alt="logo" width="300" />
