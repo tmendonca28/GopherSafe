@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"github.com/tmendonca28/gophersafe"
+	"github.com/tmendonca28/gophersafe/defang"
 )
 
 func main() {
